@@ -1,2 +1,5 @@
 # Practica-de-Git-Platzi
-se guarda todo lo relacionada con el curso de platzi
+Este repositorio fue creado para seguir el curso de platzi
+El curso es sobre gitHub a nivel profecional y el uso de git
+desde la terminal en Linux, Windows y OS X 
+ 
