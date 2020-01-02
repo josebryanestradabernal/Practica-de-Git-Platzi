@@ -44,3 +44,9 @@ padding: 0;
     background: white;
     padding: 1em;
 }
+#footer {
+text-align: center;
+color:white;
+padding: 0.5em;
+background: gray;
+}
