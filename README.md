@@ -1,5 +1,7 @@
 # Practica-de-Git-Platzi
-Este repositorio fue creado para seguir el curso de platzi
-El curso es sobre gitHub a nivel profecional y el uso de git
-desde la terminal en Linux, Windows y OS X 
+<div style="text-aling:center;">
+<p style="color:blue;font-family:arial;">Bienvenidos a este blog</p>
+<p>En este blog se encuentra los archivos que se realizaron durante el aprendizaje con github</p>
+</div>
+
  
