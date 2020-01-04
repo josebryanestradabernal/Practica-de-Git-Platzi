@@ -8,3 +8,4 @@
 * Comandos de git
 * Creación de repositorios en gitHub
 * incluye ejemplos en linux y mac 
+* entre otros
