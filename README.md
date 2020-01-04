@@ -7,4 +7,4 @@
 ##En este curso se abordan diferentes temas
 * Comandos de git
 * Creación de repositorios en gitHub
- 
+* incluye ejemplos en linux y mac 
